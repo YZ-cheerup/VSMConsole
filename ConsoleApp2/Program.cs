@@ -10,6 +10,7 @@ namespace ConsoleApp2
             Console.WriteLine("H");
             Console.WriteLine("W");
             Console.WriteLine("W");
+            Console.WriteLine("W");
         }
     }
 }
